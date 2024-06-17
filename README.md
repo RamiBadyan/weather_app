@@ -4,6 +4,15 @@
 
 My project is a weather app developed using Kotlin and Jetpack Compose. The app allows users to check the weather conditions in their current location or search for weather information in different cities worldwide. It utilizes the OpenWeather API to fetch weather data.
 
+
+## Screenshots
+![alt text](https://github.com/RamiBadyan/weather_app/blob/main/screenshot/Screenshot_1_WeatherApp.jpg?raw=true)
+---
+![alt text](https://github.com/RamiBadyan/weather_app/blob/main/screenshot/Screenshot_2_WeatherApp.jpg?raw=true)
+---
+![alt text](https://github.com/RamiBadyan/weather_app/blob/main/screenshot/Screenshot_3_WeatherApp.jpg?raw=true)
+---
+
 ## Files and Structure
 
 ### Presentation Layer
