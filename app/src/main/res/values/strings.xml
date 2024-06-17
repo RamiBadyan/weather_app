@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="desc_info_dialog">Please enable location services to determine your current location and enhance our service. Thank you for your cooperation!</string>
+    <string name="title_info_dialog">Enable Location</string>
+    <string name="_5_days_3_hour_forecast">5 Days / 3 Hour Forecast</string>
+    <string name="today_highlights">Today Highlights</string>
+    <string name="air_quality_index">Air quality index</string>
+    <string name="Error_check_internet_connection">Oops! Something went wrong. Check your internet connection, then try again.</string>
+    <string name="could_not_find_anything">Couldn\'t find anything</string>
+    <string name="check_internet_connection">Check your internet connection, then try again.</string>
+    <string name="now">Now</string>
+    <string name="try_again">Try again</string>
+    <string name="copyright">Copyright © 2024 Rami Badyan</string>
+    <string name="powered_by">Powered by</string>
+    <string name="sunrise_sunset"><![CDATA[Sunrise & Sunset]]></string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="humidity_pressure"><![CDATA[Humidity & Pressure]]></string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility_feels_like"><![CDATA[Visibility & Feels Like]]></string>
+    <string name="visibility">Visibility</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="search">Search</string>
+</resources>
